@@ -5,7 +5,7 @@ class Holidays
 
   function __construct( $year = null ) {
   	$this->year = $year ?? date( "Y" );
-    $this->file = "./default.json";
+    $this->file = "./src/default.json";
     $this->dates = json_decode( file_get_contents( $this->file ), true );
 
     foreach( $this->dates as $name => &$values ) {
