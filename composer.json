@@ -1,0 +1,16 @@
+{
+  "name": "jjgradwell/holidays",
+  "description": "Get list of all holidays for a given year",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "GPL v3",
+  "authors": [
+    {
+      "name": "Jason Gradwell",
+      "email": "jjgradwell@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
