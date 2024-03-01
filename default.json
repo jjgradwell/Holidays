@@ -1,0 +1,50 @@
+{
+    "New Years Day": {
+        "date": "Jan 1",
+        "move": ""
+    },
+    "Family Day": {
+        "date": "Third Monday of Feb",
+        "move": ""
+    },
+    "Good Friday": {
+        "date": "goodFriday",
+        "move": ""
+    },
+    "Victoria Day": {
+        "date": "victoriaDay",
+        "move": ""
+    },
+    "Canada Day": {
+        "date": "July 1",
+        "move": ""
+    },
+    "Civic Holiday": {
+        "date": "First Monday of Aug",
+        "move": ""
+    },
+    "Labour Day": {
+        "date": "First Monday of Sep",
+        "move": ""
+    },
+    "Thanksgiving": {
+        "date": "Second Monday of Oct",
+        "move": ""
+    },
+    "Remembrance Day": {
+        "date": "Nov 11",
+        "move": ""
+    },
+    "Christmas Day": {
+        "date": "Dec 25",
+        "move": ""
+    },
+    "Boxing Day": {
+        "date": "Dec 26",
+        "move": ""
+    },
+    "Next New Years": {
+        "date": "Jan 1",
+        "move": "+1 year"
+    }
+}
